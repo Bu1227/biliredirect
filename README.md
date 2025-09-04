@@ -90,3 +90,6 @@ biliredirect/
 - 影片不存在或已刪除
 - API 請求失敗
 - 找不到可用的 CDN 地址
+
+## 參考專案
+[gujimy/BiliBili-JX](https://github.com/gujimy/BiliBili-JX)
